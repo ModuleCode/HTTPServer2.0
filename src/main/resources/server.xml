@@ -1,0 +1,9 @@
+<server>
+    <config>
+        <port value="8888"/>
+    </config>
+
+    <projects>
+        <project path="" base=""/>
+    </projects>
+</server>
